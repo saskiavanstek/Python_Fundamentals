@@ -27,3 +27,7 @@ You can assign numbers directly:
 ```python
 myint = 20
 myfloat = 10.0
+mystring = "hello"
+---
+
+
