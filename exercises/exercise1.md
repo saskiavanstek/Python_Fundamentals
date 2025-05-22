@@ -28,6 +28,15 @@ You can assign numbers directly:
 myint = 20
 myfloat = 10.0
 mystring = "hello"
----
+```
+
+**Je moet het zo doen:**
+
+
+```python
+myint = 20
+myfloat = 10.0
+mystring = "hello"
+```
 
 
